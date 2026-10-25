@@ -107,7 +107,7 @@
 <div align= "center">
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑴𝒚, 𝒃𝒊𝒓𝒕𝒉𝒅𝒂𝒚 𝒊𝒔 𝒐𝒏 𝑶𝒄𝒕𝒐𝒃𝒆𝒓 , 27 }}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑴𝒚 𝒇𝒂𝒎𝒊𝒍𝒚 𝒂𝒓𝒆.}}$$
-    <p align="center">$${\color{#A5C0B6FF}\textbf{@𝒆𝒍𝒍𝒊𝒐𝒕𝒘𝒊𝒕𝒏𝒆𝒔𝒔 , @𝒄𝒂𝒓𝒄𝒓𝒂𝒔𝒉𝒙𝒐𝒙𝒐 , @𝒔𝒆𝒄𝒓𝒆𝒕𝒂𝒓𝒚𝒚𝒌𝒊𝒎,@𝑴𝑴𝒎𝒐𝒛𝒛𝒂𝒓𝒆𝒍𝒍𝒂𝑨}}$$
+    <p align="center">$${\color{#A5C0B6FF}\textbf{@𝒆𝒍𝒍𝒊𝒐𝒕𝒘𝒊𝒕𝒏𝒆𝒔𝒔 , @𝒄𝒂𝒓𝒄𝒓𝒂𝒔𝒉𝒙𝒐𝒙𝒐 , @𝒔𝒆𝒄𝒓𝒆𝒕𝒂𝒓𝒚𝒚𝒌𝒊𝒎,@𝑴𝑴𝒎𝒐𝒛𝒛𝒂𝒓𝒆𝒍𝒍𝒂𝑨},@WalkingCorps}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝒇𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒎 𝒐𝒏 𝒈𝒊𝒕𝒉𝒖𝒃 ! :𝑫}}$$
      </details>
 
