@@ -142,10 +142,7 @@
 
 <p align="center"><img width="736"  alt="Untitled15_20261022143236" src="https://github.com/user-attachments/assets/65780c5b-9170-4bba-9dfb-e4cd8c492b00" />
 <p align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A5C0B6&center=true&vCenter=true&width=435&lines=Heyya+Twoie+!!+%5E%5E" alt="Typing SVG" /></a>
-<p align="center"><img width="150"  alt="a14" src="https://github.com/user-attachments/assets/4bac16d9-a09a-481f-99d3-b0143de06a12" /><img width="150"  alt="g34" src="https://github.com/user-attachments/assets/95af6d5e-73f7-4933-9582-64fcb892e269" /><img width="150" alt="tumblr_8fa77459b5a671ad955ffa9bb0d510fa_3f5a4c56_640" src="https://github.com/user-attachments/assets/d38f000b-a046-4c70-b352-23178f5cf73e" />
-<img width="150" alt="static-assets-upload17531564460957186980" src="https://github.com/user-attachments/assets/8b2779d4-d6db-43d4-bdcd-881a9d760746" />
-<img width="150"  alt="static-assets-upload6495408840922833313" src="https://github.com/user-attachments/assets/a8e76c72-db7d-451c-a974-9d265ccc076b" />
-<img width="150"  alt="tumblr_fede07cbc2ed589cbef0ce8afe5a1a73_3e4fc533_640" src="https://github.com/user-attachments/assets/c1244f4b-f8ca-4d91-8004-d8cf1c73f34b" />
+
 
 
 <p align="center"><img width="700" alt="Weirdcore" src="https://github.com/user-attachments/assets/b6d030db-1064-43a7-9611-046f44ca4b57" />
