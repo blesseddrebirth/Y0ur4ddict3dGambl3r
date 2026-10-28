@@ -85,15 +85,15 @@
 </p>
 <div align= "center">
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑴𝒚, 𝒇𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒔𝒉𝒊𝒑𝒔 𝒂𝒓𝒆 𝒎𝒐𝒔𝒕𝒍𝒚 𝒂𝒍𝒍 𝒕𝒘𝒐𝒕𝒊𝒎𝒆 𝒔𝒉𝒊𝒑𝒔.}}$$
-    <p align="center">$${\color{#A5C0B6FF\textbf{𝒃𝒖𝒕 𝒎𝒚 𝒇𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒐𝒏𝒆𝒔 𝒂𝒓𝒆.}}$$
+    <p align="center">$${\color{#A5C0B6FF}\textbf{𝒃𝒖𝒕 𝒎𝒚 𝒇𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒐𝒏𝒆𝒔 𝒂𝒓𝒆.}}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑷𝒊𝒛𝒛𝒂𝒕𝒊𝒎𝒆 , 𝒕𝒘𝒐𝒄𝒉𝒂𝒏𝒄𝒆/𝒔𝒆𝒄𝒐𝒏𝒅𝒄𝒉𝒂𝒏𝒄𝒆 , 𝒂𝒛𝒖𝒓𝒆𝒕𝒊𝒎𝒆 ,1𝒙𝒕𝒊𝒎𝒆 , RoboticHatred }}$$
-    <p align="center">$${\color{#A5C0B6FF\textbf{𝑴𝒚 𝒐𝒕𝒉𝒆𝒓 𝒔𝒉𝒊𝒑𝒔 𝒕𝒉𝒂𝒕 𝒂𝒓𝒆 𝒏𝒐𝒏𝒆 𝒕𝒘𝒐𝒕𝒊𝒎𝒆 𝒔𝒉𝒊𝒑𝒔 𝒂𝒓𝒆}}$$
+    <p align="center">$${\color{#A5C0B6FF}\textbf{𝑴𝒚 𝒐𝒕𝒉𝒆𝒓 𝒔𝒉𝒊𝒑𝒔 𝒕𝒉𝒂𝒕 𝒂𝒓𝒆 𝒏𝒐𝒏𝒆 𝒕𝒘𝒐𝒕𝒊𝒎𝒆 𝒔𝒉𝒊𝒑𝒔 𝒂𝒓𝒆}}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑷𝒂𝒚𝒄𝒉𝒆𝒄𝒌 , 𝑷𝒊𝒛𝒛𝒂𝒃𝒖𝒓𝒈𝒆𝒓 , 𝑻𝒐𝒙𝒊𝒄𝒑𝒊𝒛𝒛𝒂.}}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑰 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒔𝒉𝒊𝒑𝒔}}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑫𝒐𝒖𝒃𝒍𝒆𝑭𝒆𝒅𝒐𝒓𝒂 , 𝑫𝒐𝒖𝒃𝒍𝒆𝒛𝒊𝒑𝒑𝒆𝒓 , 𝒄𝒉𝒂𝒏𝒄𝒆𝒙𝒏𝒐𝒔𝒆𝒇𝒆𝒓𝒂𝒕𝒖 , }}$$
-    <p align="center">$${\color{#A5C0B6FF\textbf{𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒐𝒑𝒊𝒏𝒊𝒐𝒏.}}$$
+    <p align="center">$${\color{#A5C0B6FF}\textbf{𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒐𝒑𝒊𝒏𝒊𝒐𝒏.}}$$
     <p align="center">$${\color{#A5C0B6FF}\textbf{𝑨𝑵𝑫 𝑫𝑶 𝑵𝑶𝑻 𝑨𝑪𝑪𝑼𝑺𝑬 𝑴𝑬 𝑶𝑭 𝑩𝑬𝑰𝑵𝑮 𝑷𝑹**/𝑫𝑨𝑹𝑲𝑺𝑯𝑰𝑷𝑷𝑬𝑹}}$$
-    <p align="center">$${\color{#A5C0B6FF\textbf{𝒊 𝒅𝒐 𝒏𝒐𝒕 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒊𝒕}}$$
+    <p align="center">$${\color{#A5C0B6FF}\textbf{𝒊 𝒅𝒐 𝒏𝒐𝒕 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒊𝒕}}$$
     </details>
 
 <p align="center">$${\color{#A5C0B6FF}\textbf{...}}{\color{#A5C0B6FF}\textbf{୨}}{\color{#A5C0B6FF}\textbf{✩}}{\color{#A5C0B6FF}\textbf{୧}}{\color{#A5C0B6FF}\textbf{...}}$$
